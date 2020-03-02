@@ -2,9 +2,9 @@
 In this assignment we'll study a straightforward image classication task. These days, all modern digital
 cameras include a sensor that detects which way the camera is being held when a photo is taken. This meta-
 data is then included in the image le, so that image organization programs know the correct orientation |
-i.e., which way is \up" in the image. But for photos scanned in from lm or from older digital cameras,
+i.e., which way is up in the image. But for photos scanned in from lm or from older digital cameras,
 rotating images to be in the correct orientation must typically be done by hand.
-Your task in this assignment is to create a classier that decides the correct orientation of a given image,
+Your task in this assignment is to create a classier that decides the correct orientation of a given image.<br/><br/><br/>
 Decision Trees : 
 Decision tree was implemented and the max_depth parameter chosen was 4.This was done
 after cross-validation. We plotted a graph of accuracy vs max_depth and found out that as we
